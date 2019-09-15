@@ -12,6 +12,4 @@ def evaluateRangeForQuantsAndTeams(n: int):
             print("Team")
         else:
             print(currentNumber)
-
-
-evaluateRangeForQuantsAndTeams(14)
+            
